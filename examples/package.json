@@ -6,7 +6,7 @@
         "clean": "rm -rf dist"
     },
     "dependencies": {
-        "aws-sdk": "^2.937.0",
+        "aws-sdk": "^2.1354.0",
         "tar-stream": "^2.2.0"
     },
     "devDependencies": {
